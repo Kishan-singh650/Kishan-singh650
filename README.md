@@ -1,5 +1,3 @@
-![logo](https://github.com/himanshu8in/himanshu8in/blob/main/banner.jpeg)
-
 <h1 align="center">Hi 👋, I'm Kishan Singh</h1>
 <h3 align="center">A passionate Btech student from India</h3>
 <img align="right" alt="coding" width= "400" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtqNjdvdmN4ZWMzOG1yam1tZ2hjbHBhcWo0cHdrcDlhdmg3aW1ieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif">
