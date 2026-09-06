@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Kishan Singh</h1>
 <h3 align="center">A passionate Btech student from India</h3>
-<img align="right" alt="coding" width= "400" src = "https://th.bing.com/th/id/R.d486deeb54e0b0186eeda7fa5b1b851b?rik=uF53k%2bXjq%2fa%2fpw&riu=http%3a%2f%2fmehtaabsingh.com%2fimages%2fhow-does-code-integrity-work.gif&ehk=0qhWG%2bxhkywsnEGhnFxThB8RLaa5s5vzC9%2b9pXf2moM%3d&risl=&pid=ImgRaw&r=0">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=himanshu8in&label=Profile%20views&color=0e75b6&style=flat" alt="himanshu8in" /> </p>
+<img align="right" alt="coding" width= "400" src = "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmtqNjdvdmN4ZWMzOG1yam1tZ2hjbHBhcWo0cHdrcDlhdmg3aW1ieSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dWesBcTLavkZuG35MI/giphy.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kishan-singh650&label=Profile%20views&color=0e75b6&style=flat" alt="Kishan-singh650" /> </p>
 
-- 🔭 I’m currently working on **Resume Screening Website**
+- 🔭 I’m currently working on **ML **
 
 - 🌱 I’m currently learning **Data Science**
 
