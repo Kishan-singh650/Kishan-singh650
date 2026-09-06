@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1y1rKXbp5JN7vkcIgjilLhsQgc0AtqYtf?usp=sharing]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/kishan-singh-linkdin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishan-singh650" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishan-singh-linkdin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kishan-singh650" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Kb_2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kishan-singh650" height="30" width="40" /></a>
 </p>
 
